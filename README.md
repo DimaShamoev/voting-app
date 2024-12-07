@@ -3,8 +3,6 @@
 </div>
 
 # Poll Voting App
-
-## Overview
 The Poll Voting App is a modern, user-friendly platform designed to create, share, and manage polls efficiently. It provides real-time voting results, customizable poll features, and an intuitive interface to encourage engagement and collaboration.
 
 ### Features
