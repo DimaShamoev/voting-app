@@ -14,10 +14,10 @@ The Poll Voting App is a modern, user-friendly platform designed to create, shar
 
 <small>
     Frontend:
-        React Ts
+        - React Ts
 
     Backend:
-        NestJs
+        - NestJs
 </small>
 
 ### Getting Started
@@ -36,3 +36,5 @@ $ npm run dev
 $ yarn start
 ```
 
+### Future Plans
+- Add Authentication system
