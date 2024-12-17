@@ -11,14 +11,11 @@ The Poll Voting App is a modern, user-friendly platform designed to create, shar
 - **Secure Voting**: Ensure privacy and security for all participants.
 
 ### Tech Stack
+Frontend:
+- React Ts
 
-<small>
-    Frontend:
-        - React Ts
-
-    Backend:
-        - NestJs
-</small>
+Backend:
+- NestJs
 
 ### Getting Started
 1. Clone the repository:
