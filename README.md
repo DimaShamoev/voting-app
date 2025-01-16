@@ -35,3 +35,5 @@ $ yarn start
 
 ### Future Plans
 - Add Authentication system
+
+### Not Finished Yet
